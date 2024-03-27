@@ -31,7 +31,7 @@ Before running the tests, ensure you have the following installed:
 
 1. Ensure your Android emulator (with the calculator app installed) is running.
 
-2. Run the `AppiumCalcTest` class as a Java application.
+2. Run the `AppiumCalcTest` class as a Java application. File Path:  src/test/java/MobileTesting/AppiumTesting/AppiumCalcTest.java
 
 3. The test will execute, and you'll see the test result printed in the console.
 
